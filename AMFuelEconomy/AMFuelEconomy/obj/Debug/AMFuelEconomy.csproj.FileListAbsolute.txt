@@ -1,0 +1,9 @@
+c:\users\10574447\documents\visual studio 2015\Projects\AMFuelEconomy\AMFuelEconomy\bin\Debug\AMFuelEconomy.exe.config
+c:\users\10574447\documents\visual studio 2015\Projects\AMFuelEconomy\AMFuelEconomy\bin\Debug\AMFuelEconomy.exe
+c:\users\10574447\documents\visual studio 2015\Projects\AMFuelEconomy\AMFuelEconomy\bin\Debug\AMFuelEconomy.pdb
+c:\users\10574447\documents\visual studio 2015\Projects\AMFuelEconomy\AMFuelEconomy\obj\Debug\AMFuelEconomy.csprojResolveAssemblyReference.cache
+c:\users\10574447\documents\visual studio 2015\Projects\AMFuelEconomy\AMFuelEconomy\obj\Debug\AMFuelEconomy.FuelEconForm.resources
+c:\users\10574447\documents\visual studio 2015\Projects\AMFuelEconomy\AMFuelEconomy\obj\Debug\AMFuelEconomy.Properties.Resources.resources
+c:\users\10574447\documents\visual studio 2015\Projects\AMFuelEconomy\AMFuelEconomy\obj\Debug\AMFuelEconomy.csproj.GenerateResource.Cache
+c:\users\10574447\documents\visual studio 2015\Projects\AMFuelEconomy\AMFuelEconomy\obj\Debug\AMFuelEconomy.exe
+c:\users\10574447\documents\visual studio 2015\Projects\AMFuelEconomy\AMFuelEconomy\obj\Debug\AMFuelEconomy.pdb

@@ -1,0 +1,10 @@
+c:\users\adrien\documents\visual studio 2015\Projects\AMMyFitnessApp\AMMyFitnessApp\bin\Debug\AMMyFitnessApp.exe.config
+c:\users\adrien\documents\visual studio 2015\Projects\AMMyFitnessApp\AMMyFitnessApp\bin\Debug\AMMyFitnessApp.exe
+c:\users\adrien\documents\visual studio 2015\Projects\AMMyFitnessApp\AMMyFitnessApp\bin\Debug\AMMyFitnessApp.pdb
+c:\users\adrien\documents\visual studio 2015\Projects\AMMyFitnessApp\AMMyFitnessApp\obj\Debug\AMMyFitnessApp.csprojResolveAssemblyReference.cache
+c:\users\adrien\documents\visual studio 2015\Projects\AMMyFitnessApp\AMMyFitnessApp\obj\Debug\AMMyFitnessApp.mainForm.resources
+c:\users\adrien\documents\visual studio 2015\Projects\AMMyFitnessApp\AMMyFitnessApp\obj\Debug\AMMyFitnessApp.Properties.Resources.resources
+c:\users\adrien\documents\visual studio 2015\Projects\AMMyFitnessApp\AMMyFitnessApp\obj\Debug\AMMyFitnessApp.csproj.GenerateResource.Cache
+c:\users\adrien\documents\visual studio 2015\Projects\AMMyFitnessApp\AMMyFitnessApp\obj\Debug\AMMyFitnessApp.exe
+c:\users\adrien\documents\visual studio 2015\Projects\AMMyFitnessApp\AMMyFitnessApp\obj\Debug\AMMyFitnessApp.pdb
+c:\users\adrien\documents\visual studio 2015\Projects\AMMyFitnessApp\AMMyFitnessApp\obj\Debug\AMMyFitnessApp.myProfileForm.resources

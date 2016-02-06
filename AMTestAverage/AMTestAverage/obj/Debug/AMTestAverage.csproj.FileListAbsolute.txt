@@ -1,0 +1,9 @@
+c:\users\10574447\documents\visual studio 2015\Projects\AMTestAverage\AMTestAverage\bin\Debug\AMTestAverage.exe.config
+c:\users\10574447\documents\visual studio 2015\Projects\AMTestAverage\AMTestAverage\bin\Debug\AMTestAverage.exe
+c:\users\10574447\documents\visual studio 2015\Projects\AMTestAverage\AMTestAverage\bin\Debug\AMTestAverage.pdb
+c:\users\10574447\documents\visual studio 2015\Projects\AMTestAverage\AMTestAverage\obj\Debug\AMTestAverage.csprojResolveAssemblyReference.cache
+c:\users\10574447\documents\visual studio 2015\Projects\AMTestAverage\AMTestAverage\obj\Debug\AMTestAverage.TestAverageForm.resources
+c:\users\10574447\documents\visual studio 2015\Projects\AMTestAverage\AMTestAverage\obj\Debug\AMTestAverage.Properties.Resources.resources
+c:\users\10574447\documents\visual studio 2015\Projects\AMTestAverage\AMTestAverage\obj\Debug\AMTestAverage.csproj.GenerateResource.Cache
+c:\users\10574447\documents\visual studio 2015\Projects\AMTestAverage\AMTestAverage\obj\Debug\AMTestAverage.exe
+c:\users\10574447\documents\visual studio 2015\Projects\AMTestAverage\AMTestAverage\obj\Debug\AMTestAverage.pdb

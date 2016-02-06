@@ -1,0 +1,9 @@
+c:\users\10574447\documents\visual studio 2015\Projects\AMCardFlip\AMCardFlip\bin\Debug\AMCardFlip.exe.config
+c:\users\10574447\documents\visual studio 2015\Projects\AMCardFlip\AMCardFlip\obj\Debug\AMCardFlip.csprojResolveAssemblyReference.cache
+c:\users\10574447\documents\visual studio 2015\Projects\AMCardFlip\AMCardFlip\obj\Debug\AMCardFlip.Properties.Resources.resources
+c:\users\10574447\documents\visual studio 2015\Projects\AMCardFlip\AMCardFlip\obj\Debug\AMCardFlip.csproj.GenerateResource.Cache
+c:\users\10574447\documents\visual studio 2015\Projects\AMCardFlip\AMCardFlip\bin\Debug\AMCardFlip.exe
+c:\users\10574447\documents\visual studio 2015\Projects\AMCardFlip\AMCardFlip\bin\Debug\AMCardFlip.pdb
+c:\users\10574447\documents\visual studio 2015\Projects\AMCardFlip\AMCardFlip\obj\Debug\AMCardFlip.exe
+c:\users\10574447\documents\visual studio 2015\Projects\AMCardFlip\AMCardFlip\obj\Debug\AMCardFlip.pdb
+c:\users\10574447\documents\visual studio 2015\Projects\AMCardFlip\AMCardFlip\obj\Debug\AMCardFlip.CardFlipForm.resources

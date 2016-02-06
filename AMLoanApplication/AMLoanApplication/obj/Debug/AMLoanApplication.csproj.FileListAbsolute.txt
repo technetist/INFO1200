@@ -1,0 +1,9 @@
+c:\users\10574447\documents\visual studio 2015\Projects\AMLoanApplication\AMLoanApplication\bin\Debug\AMLoanApplication.exe.config
+c:\users\10574447\documents\visual studio 2015\Projects\AMLoanApplication\AMLoanApplication\bin\Debug\AMLoanApplication.exe
+c:\users\10574447\documents\visual studio 2015\Projects\AMLoanApplication\AMLoanApplication\bin\Debug\AMLoanApplication.pdb
+c:\users\10574447\documents\visual studio 2015\Projects\AMLoanApplication\AMLoanApplication\obj\Debug\AMLoanApplication.csprojResolveAssemblyReference.cache
+c:\users\10574447\documents\visual studio 2015\Projects\AMLoanApplication\AMLoanApplication\obj\Debug\AMLoanApplication.AMLoanQualifierForm.resources
+c:\users\10574447\documents\visual studio 2015\Projects\AMLoanApplication\AMLoanApplication\obj\Debug\AMLoanApplication.Properties.Resources.resources
+c:\users\10574447\documents\visual studio 2015\Projects\AMLoanApplication\AMLoanApplication\obj\Debug\AMLoanApplication.csproj.GenerateResource.Cache
+c:\users\10574447\documents\visual studio 2015\Projects\AMLoanApplication\AMLoanApplication\obj\Debug\AMLoanApplication.exe
+c:\users\10574447\documents\visual studio 2015\Projects\AMLoanApplication\AMLoanApplication\obj\Debug\AMLoanApplication.pdb

@@ -1,0 +1,9 @@
+c:\users\10574447\documents\visual studio 2015\Projects\AMPayroll\AMPayroll\bin\Debug\AMPayroll.exe.config
+c:\users\10574447\documents\visual studio 2015\Projects\AMPayroll\AMPayroll\bin\Debug\AMPayroll.exe
+c:\users\10574447\documents\visual studio 2015\Projects\AMPayroll\AMPayroll\bin\Debug\AMPayroll.pdb
+c:\users\10574447\documents\visual studio 2015\Projects\AMPayroll\AMPayroll\obj\Debug\AMPayroll.csprojResolveAssemblyReference.cache
+c:\users\10574447\documents\visual studio 2015\Projects\AMPayroll\AMPayroll\obj\Debug\AMPayroll.AMPayrollCalculator.resources
+c:\users\10574447\documents\visual studio 2015\Projects\AMPayroll\AMPayroll\obj\Debug\AMPayroll.Properties.Resources.resources
+c:\users\10574447\documents\visual studio 2015\Projects\AMPayroll\AMPayroll\obj\Debug\AMPayroll.csproj.GenerateResource.Cache
+c:\users\10574447\documents\visual studio 2015\Projects\AMPayroll\AMPayroll\obj\Debug\AMPayroll.exe
+c:\users\10574447\documents\visual studio 2015\Projects\AMPayroll\AMPayroll\obj\Debug\AMPayroll.pdb
