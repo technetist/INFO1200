@@ -7,3 +7,6 @@ c:\users\10574447\documents\visual studio 2015\Projects\AMLoanApplication\AMLoan
 c:\users\10574447\documents\visual studio 2015\Projects\AMLoanApplication\AMLoanApplication\obj\Debug\AMLoanApplication.csproj.GenerateResource.Cache
 c:\users\10574447\documents\visual studio 2015\Projects\AMLoanApplication\AMLoanApplication\obj\Debug\AMLoanApplication.exe
 c:\users\10574447\documents\visual studio 2015\Projects\AMLoanApplication\AMLoanApplication\obj\Debug\AMLoanApplication.pdb
+C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMLoanApplication\AMLoanApplication\bin\Debug\AMLoanApplication.exe.config
+C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMLoanApplication\AMLoanApplication\obj\Debug\AMLoanApplication.exe
+C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMLoanApplication\AMLoanApplication\obj\Debug\AMLoanApplication.pdb
