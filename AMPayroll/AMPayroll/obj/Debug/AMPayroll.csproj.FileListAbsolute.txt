@@ -10,3 +10,9 @@ c:\users\10574447\documents\visual studio 2015\Projects\AMPayroll\AMPayroll\obj\
 C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMPayroll\AMPayroll\bin\Debug\AMPayroll.exe.config
 C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMPayroll\AMPayroll\obj\Debug\AMPayroll.exe
 C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMPayroll\AMPayroll\obj\Debug\AMPayroll.pdb
+C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMPayroll\AMPayroll\bin\Debug\AMPayroll.exe
+C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMPayroll\AMPayroll\bin\Debug\AMPayroll.pdb
+C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMPayroll\AMPayroll\obj\Debug\AMPayroll.csprojResolveAssemblyReference.cache
+C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMPayroll\AMPayroll\obj\Debug\AMPayroll.AMPayrollCalculator.resources
+C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMPayroll\AMPayroll\obj\Debug\AMPayroll.Properties.Resources.resources
+C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMPayroll\AMPayroll\obj\Debug\AMPayroll.csproj.GenerateResource.Cache

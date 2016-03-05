@@ -7,3 +7,6 @@ c:\users\10574447\documents\visual studio 2015\Projects\AMTestAverage\AMTestAver
 c:\users\10574447\documents\visual studio 2015\Projects\AMTestAverage\AMTestAverage\obj\Debug\AMTestAverage.csproj.GenerateResource.Cache
 c:\users\10574447\documents\visual studio 2015\Projects\AMTestAverage\AMTestAverage\obj\Debug\AMTestAverage.exe
 c:\users\10574447\documents\visual studio 2015\Projects\AMTestAverage\AMTestAverage\obj\Debug\AMTestAverage.pdb
+C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMTestAverage\AMTestAverage\bin\Debug\AMTestAverage.exe.config
+C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMTestAverage\AMTestAverage\obj\Debug\AMTestAverage.exe
+C:\Users\Adrien\Documents\Visual Studio 2015\Projects\AMTestAverage\AMTestAverage\obj\Debug\AMTestAverage.pdb
